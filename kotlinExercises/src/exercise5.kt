@@ -2,7 +2,7 @@ fun main(){
 
     val a = 10
     val b = 9
-    val c = a%b
+    val c = a % b
     val d = (c+1)/2
 
     println("a. ${!((a > b) && (c == d))}")
